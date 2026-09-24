@@ -91,7 +91,6 @@ Grad-CAM (Gradient-weighted Class Activation Mapping) was used to visualize whic
 
 ## Repository Structure
 
-.
 ├── MuReD_Ensemble_GradCAM_FINAL.ipynb # Full notebook: EDA, preprocessing, training, evaluation, Grad-CAM
 ├── train_data.csv # Training labels
 ├── val_data.csv # Validation labels (split into val/test in the notebook)
